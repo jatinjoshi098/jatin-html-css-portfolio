@@ -1,0 +1,76 @@
+*{
+    padding:0; margin:0; box-sizing: border-box;
+}
+body{
+    background: url(../images/w-qjCHPZbeXCQ-unsplash.jpg);
+}
+img{
+    padding-right: 170px;
+    padding-top: 50px;
+}
+header{
+    width: 100%;
+    height: 100vh;
+    padding-left: 100px;
+    
+}
+.logo{
+    color: #1a6610;
+    font-size: 80px;
+    letter-spacing: 3px;
+    
+}
+.logo span{
+    color: #4b2028;
+}
+ 
+.text{
+    color: #421414;
+    margin-top: 100px;
+    letter-spacing: px;
+}
+.text h1{
+    font-size: 50px;
+    margin-top: 10px;
+}
+.text p{
+    font-size: 25px;
+    margin-top: 10p;
+}
+ .About{
+     color: rgb(54, 9, 97);
+     text-align: right;
+     padding-right: 200px;
+     padding-top: 60px;
+ }
+ .About h1{
+     font-size: 60px;
+ }.About p{
+     font-size: 30px;
+     padding-top: 10px;
+     padding-right: 10px;
+ }
+ .sahil{
+     font-size: 25px;
+     color: rgb(59, 13, 13);
+     text-align: right;
+     padding-left: 800px;
+     padding-right: 50px;
+     padding-bottom: 100px;
+     position: relative;
+     bottom: 75px;
+ }
+ .details{
+     text-align: left;
+     padding-left: 50px;
+     position: relative;
+     bottom: 300px;
+ }
+ .details h1{
+     color: #583b19;
+     font-size: 50px;
+ }
+ .details p{
+     font-size: 25px;
+     color: #032929;
+ }
